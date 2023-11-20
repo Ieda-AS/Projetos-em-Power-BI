@@ -3,7 +3,7 @@ Projetos de estudo do curso Power BI na instituição Senai
 
 Este projeto tem como objetivo colocar em prática todo conhecimento adquirido no curso de Power BI ministrado pelo Senai Frederico Jacob - SP.
 
-Os projetos são desenvolvidos desde o planejamento até a públicação, dividos nos tópicos:
+Os projetos são desenvolvidos desde o planejamento até a públicação, divididos nos tópicos:
 
 - Inicio do projeto(Definição do objetivo, levantamento de requisitos)
 - criação de logo e identidade visual(Empresa fictícia)
